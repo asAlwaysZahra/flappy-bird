@@ -1,4 +1,4 @@
-CountdownState = Class{__includes = BaseState}
+PauseState = Class{__includes = BaseState}
 
 function PauseState:init() end
 
